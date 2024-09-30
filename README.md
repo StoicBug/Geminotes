@@ -1,4 +1,4 @@
-# Geminotes
+# Geminotes #AISprint
 
 <p align="center">
   <img src="logo.svg" alt="Geminotes Logo" width="200">
@@ -65,6 +65,11 @@ To get started with Geminotes, follow these steps:
 - Angular
 - Tailwind CSS
 - Firebase (Firestore, Cloud Functions, Authentication)
+
+## The Team
+<p align="center">
+  <img src="team.png" alt="Team" width="200">
+</p>
 
 ## Contributing
 
