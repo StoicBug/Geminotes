@@ -68,12 +68,16 @@ To get started with Geminotes, follow these steps:
 
 ## The Team
 <p align="center">
-  <img src="team.png" alt="Team" width="200">
+  <img src="team.png" alt="Team">
 </p>
 
 ## Contributing
 
 We welcome contributions to both the Chrome extension and web application components of Geminotes. Please refer to the individual repository README files for specific contribution guidelines.
+
+## Acknowledgment
+
+Google AI/ML Developer Programs team supported this work by providing Google Cloud Credit.
 
 ## License
 
