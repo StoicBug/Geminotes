@@ -31,7 +31,7 @@ The Geminotes Chrome extension allows you to easily save notes and snippets from
 - Saves notes directly to Firebase Firestore
 - Google Sign-In integration
 
-**Repository:** [Link to Chrome Extension Repository]
+**Repository:** [[Link to Chrome Extension Repository](https://github.com/StoicBug/Geminotes-chrome-extention)]
 
 ### Web Application
 
@@ -44,7 +44,7 @@ The Geminotes web app provides a comprehensive interface for managing your notes
 - Retrieves notes from Firebase Firestore
 - Utilizes Firebase Cloud Functions for AI chat capabilities using the Gemini model
 
-**Repository:** [Link to Web Application Repository]
+**Repository:** [[Link to Web Application Repository]](https://github.com/StoicBug/Geminotes-web-application)
 
 ## Getting Started
 
@@ -52,8 +52,8 @@ To get started with Geminotes, follow these steps:
 
 1. Clone both repositories:
    ```
-   git clone [Chrome Extension Repo URL]
-   git clone [Web Application Repo URL]
+   git clone https://github.com/StoicBug/Geminotes-chrome-extention
+   git clone https://github.com/StoicBug/Geminotes-web-application
    ```
 
 2. Follow the setup instructions in each repository's README for detailed installation and configuration steps.
