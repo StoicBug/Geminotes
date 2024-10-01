@@ -78,15 +78,3 @@ We welcome contributions to both the Chrome extension and web application compon
 ## Acknowledgment
 
 Google AI/ML Developer Programs team supported this work by providing Google Cloud Credit.
-
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information or project maintainer details]
-
----
-
-For more detailed information about each component, please visit the respective repositories linked above.
